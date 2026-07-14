@@ -39,7 +39,7 @@ redirect_from:
 
 <span class="anchor" id="about"></span>
 
-# About
+<h2 id="about" style="margin-top:40px;">About</h2>
 
 I am currently a Postdoctoral Fellow at the University of Hong Kong, working with Professor
 <a href="https://yangyx09.github.io/#teaching" target="_blank">Yuxiang Yang</a>.
@@ -52,14 +52,15 @@ In 2020, I obtained my Bachelor's degree in Physics from Fudan University.
 
 <span class="anchor" id="research-interests"></span>
 
-# Research Interests
+
+<h2 id="research-interests" style="margin-top:40px;">Research Interests</h2>
 
 My research interests lie broadly in quantum information science, with particular interests in quantum learning, quantum system characterization, and quantum algorithms. My recent work focuses on developing efficient protocols for learning and verifying quantum systems, together with understanding their fundamental limits.
 
 
 <span class="anchor" id="selected-publications"></span>
 
-<h1 style="margin-top:40px;">Selected Publications</h1>
+<h2 id="selected-publications" style="margin-top:40px;">Selected Publications</h2>
 
 <p style="font-size:0.95em; margin-top:-8px; margin-bottom:20px;">
 For a complete list of publications, please visit my
@@ -201,8 +202,12 @@ For a complete list of publications, please visit my
 
 <span class="anchor" id="academic-service"></span>
 
-# Academic Service
+<h2 id="academic-service" style="margin-top:40px;">Academic Service</h2>
 
 **Conference Reviewer:** QIP 2025, TQC 2026, AQIS 2026.
 
 **Journal Reviewer:** Nature Communications, Quantum, Physical Review A.
+
+
+
+
