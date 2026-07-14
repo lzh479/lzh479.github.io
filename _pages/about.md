@@ -27,55 +27,52 @@ My research interest includes neural machine translation and computer vision. I 
 %- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo %dapibus sit amet. 
 
 
-# 📝 Publications
+# 📝 Selected Publications
 
-## Journal Articles
+<ul style="line-height:1.6">
 
-### 2023
+<li style="margin-bottom:22px;">
 
-**Zihao Li**, Huangjun Zhu, and Masahito Hayashi.  
-**Robust and efficient verification of graph states in blind measurement-based quantum computation.**  
-*npj Quantum Information* **9**, 115 (2023).
+**Zihao Li**, Haoyu Zhang, and Huangjun Zhu.  
+**Implementation of generalized measurements on a qudit via quantum walks.**  
+*Physical Review A* **99**, 062342 (2019).
 
----
+</li>
 
-### 2021
+<li style="margin-bottom:22px;">
 
-Yunting Li, Haoyu Zhang, **Zihao Li**, and Huangjun Zhu.  
-**Minimum number of experimental settings required to verify bipartite pure states and unitaries.**  
-*Physical Review A* **104**, 062439 (2021).
+**Zihao Li**†, Yun-Guang Han†, and Huangjun Zhu.  
+**Efficient verification of bipartite pure states.**  
+*Physical Review A* **100**, 032316 (2019).
 
-Yun-Guang Han, **Zihao Li**, Yukun Wang, and Huangjun Zhu.  
-**Optimal verification of the Bell state and Greenberger–Horne–Zeilinger states in untrusted quantum networks.**  
-*npj Quantum Information* **7**, 164 (2021).
+</li>
 
-Rui-Qi Zhang†, Zhibo Hou†, **Zihao Li†**, Huangjun Zhu, Guo-Yong Xiang, Chuan-Feng Li, and Guang-Can Guo.  
-**Experimental masking of real quantum states.**  
-*Physical Review Applied* **16**, 024052 (2021).
-
-**Zihao Li**, Yun-Guang Han, Hao-Feng Sun, Jiangwei Shang, and Huangjun Zhu.  
-**Verification of phased Dicke states.**  
-*Physical Review A* **103**, 022601 (2021).
-
----
-
-### 2020
+<li style="margin-bottom:22px;">
 
 **Zihao Li**, Yun-Guang Han, and Huangjun Zhu.  
 **Optimal verification of Greenberger–Horne–Zeilinger states.**  
 *Physical Review Applied* **13**, 054002 (2020).
 
----
+</li>
 
-### 2019
+<li style="margin-bottom:22px;">
 
-**Zihao Li†**, Yun-Guang Han†, and Huangjun Zhu.  
-**Efficient verification of bipartite pure states.**  
-*Physical Review A* **100**, 032316 (2019).
+**Zihao Li**, Yun-Guang Han, Hao-Feng Sun, Jiangwei Shang, and Huangjun Zhu.  
+**Verification of phased Dicke states.**  
+*Physical Review A* **103**, 022601 (2021).
 
-**Zihao Li**, Haoyu Zhang, and Huangjun Zhu.  
-**Implementation of generalized measurements on a qudit via quantum walks.**  
-*Physical Review A* **99**, 062342 (2019).
+</li>
+
+<li style="margin-bottom:22px;">
+
+**Zihao Li**, Huangjun Zhu, and Masahito Hayashi.  
+**Robust and efficient verification of graph states in blind measurement-based quantum computation.**  
+*npj Quantum Information* **9**, 115 (2023).
+
+</li>
+
+</ul>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
