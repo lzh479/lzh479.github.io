@@ -15,9 +15,9 @@
     <p class="author__bio">{{ author.bio }}</p>
   {% endif %}
 
-  
+  {% if author.email %}
     <p class="author__email">
-      <a href="mailto:{{ author.email }}">{{ author.email }}</a>
+      {{ author.email }}
     </p>
   {% endif %}
 </div>
