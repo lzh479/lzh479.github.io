@@ -19,20 +19,18 @@ redirect_from:
 
 # 👋 About
 
-I am a quantum information theorist and a Research Assistant Professor at the
-<a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>.
-I received my Ph.D. in Physics from the University of Hong Kong under the supervision of
-Professor Huangjun Zhu, and previously obtained my Bachelor's degree in Physics from
-Tsinghua University.
+I am currently a Postdoctoral Fellow at the
+<a href="https://www.hku.hk/" target="_blank">The University of Hong Kong</a>,
+working with
+<a href="https://yangyx09.github.io/#teaching" target="_blank">Professor Yuxiang Yang</a>.
+I received my Ph.D. in Physics from
+<a href="https://www.fudan.edu.cn/" target="_blank">Fudan University</a>
+in September 2025 under the supervision of
+<a href="https://phys.fudan.edu.cn/13/75/c7605a136053/page.htm" target="_blank">Professor Huangjun Zhu</a>,
+and previously obtained my Bachelor's degree in Physics from
+<a href="https://www.fudan.edu.cn/" target="_blank">Fudan University</a>.
 
-My research interests lie broadly in quantum information theory, with particular interests in
-<strong>quantum learning</strong>,
-<strong>quantum metrology</strong>,
-<strong>quantum state and process characterization</strong>,
-<strong>classical shadows</strong>,
-<strong>quantum tomography</strong>, and
-<strong>quantum foundations</strong>.
-My recent work focuses on developing efficient protocols for learning and characterizing quantum systems, together with understanding their fundamental limits.
+My research interests lie broadly in quantum information science, with particular interests in quantum learning, quantum system characterization, and quantum algorithms. My recent work focuses on developing efficient protocols for learning and verifying quantum systems, together with understanding their fundamental limits.
 
 
 
