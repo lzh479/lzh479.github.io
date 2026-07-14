@@ -66,7 +66,7 @@ For a complete list of publications, please visit my
 <a href="https://scholar.google.com/citations?user=MK3bZDMAAAAJ" target="_blank">Google Scholar</a>.
 
 <p style="font-size:0.95em; margin-top:0; margin-bottom:20px;">
-* Equal contribution.
+* denotes equal contribution.
 </p>
 
 <ol style="padding-left:28px; line-height:1.5">
