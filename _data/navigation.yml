@@ -1,13 +1,13 @@
-# main links links
+# main links
 main:
   - title: "About"
-    url: "/#-about"
+    url: "/#about"
 
   - title: "Research Interests"
-    url: "/#-research-interests"
+    url: "/#research-interests"
 
   - title: "Selected Publications"
-    url: "/#-selected-publications"
+    url: "/#selected-publications"
 
   - title: "Academic Service"
-    url: "/#-academic-service"
+    url: "/#academic-service"
