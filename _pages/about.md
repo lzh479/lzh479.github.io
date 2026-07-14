@@ -29,105 +29,93 @@ My research interest includes neural machine translation and computer vision. I 
 
 <h1>📝 Selected Publications</h1>
 
-<h2>Journal Articles</h2>
+<ol style="padding-left:28px; line-height:1.5">
 
-<div style="margin-bottom: 30px;">
-  <div style="font-size: 1.08em; margin-bottom: 5px;">
-    <a href="https://scholar.google.com/scholar?q=Auxiliary-free+replica+shadows+Efficient+estimation+of+multiple+nonlinear+quantum+properties">
-      <strong>Auxiliary-free Replica Shadows: Efficient Estimation of Multiple Nonlinear Quantum Properties</strong>
-    </a>
-  </div>
-  <div>Qing Liu†, <strong>Zihao Li†</strong>, Xiao Yuan, Huangjun Zhu, and You Zhou</div>
-  <div><em>Physical Review Letters</em> <strong>136</strong>, 100602 (2026)</div>
+<li style="margin-bottom:20px;">
+<div style="font-size:1.08em; margin-bottom:4px;">
+<a href="https://arxiv.org/abs/2606.13638">
+<strong>Optimal Classical Shadow Estimation of Unitary Channels at the Heisenberg Limit</strong>
+</a>
 </div>
+<div>Entong He*, <strong>Zihao Li*</strong>, Noam Scully, Sisi Zhou, and Yuxiang Yang</div>
+<div><em>arXiv preprint</em>, arXiv:2606.13638 (2026)</div>
+</li>
 
-<div style="margin-bottom: 30px;">
-  <div style="font-size: 1.08em; margin-bottom: 5px;">
-    <a href="https://scholar.google.com/scholar?q=Nearly+query-optimal+classical+shadow+estimation+of+unitary+channels">
-      <strong>Nearly Query-Optimal Classical Shadow Estimation of Unitary Channels</strong>
-    </a>
-  </div>
-  <div><strong>Zihao Li</strong>, Changhao Yi, You Zhou, and Huangjun Zhu</div>
-  <div><em>PRX Quantum</em> <strong>6</strong>, 030366 (2025)</div>
+<li style="margin-bottom:20px;">
+<div style="font-size:1.08em; margin-bottom:4px;">
+<a href="https://arxiv.org/abs/2605.09958">
+<strong>Quantum Nonlinear Properties from a Single Measurement Setting</strong>
+</a>
 </div>
+<div><strong>Zihao Li</strong>, Datong Chen, Dayue Qin, Yuxiang Yang, and You Zhou</div>
+<div><em>arXiv preprint</em>, arXiv:2605.09958 (2026)</div>
+</li>
 
-<div style="margin-bottom: 30px;">
-  <div style="font-size: 1.08em; margin-bottom: 5px;">
-    <a href="https://scholar.google.com/scholar?q=Enhanced+upper+confidence+limits+via+randomized+tests+in+random+sampling+without+replacement">
-      <strong>Enhanced Upper Confidence Limits via Randomized Tests in Random Sampling without Replacement</strong>
-    </a>
-  </div>
-  <div><strong>Zihao Li</strong>, Huangjun Zhu, and Masahito Hayashi</div>
-  <div><em>Advances in Applied Probability</em> (2025)</div>
+<li style="margin-bottom:20px;">
+<div style="font-size:1.08em; margin-bottom:4px;">
+<a href="https://scholar.google.com/scholar?q=Auxiliary-free+Replica+Shadows">
+<strong>Auxiliary-free Replica Shadows: Efficient Estimation of Multiple Nonlinear Quantum Properties</strong>
+</a>
 </div>
+<div>Qing Liu†, <strong>Zihao Li†</strong>, Xiao Yuan, Huangjun Zhu, and You Zhou</div>
+<div><em>Physical Review Letters</em> <strong>136</strong>, 100602 (2026)</div>
+</li>
 
-<div style="margin-bottom: 30px;">
-  <div style="font-size: 1.08em; margin-bottom: 5px;">
-    <a href="https://scholar.google.com/scholar?q=Robust+and+efficient+verification+of+graph+states+in+blind+measurement-based+quantum+computation">
-      <strong>Robust and Efficient Verification of Graph States in Blind Measurement-Based Quantum Computation</strong>
-    </a>
-  </div>
-  <div><strong>Zihao Li</strong>, Huangjun Zhu, and Masahito Hayashi</div>
-  <div><em>npj Quantum Information</em> <strong>9</strong>, 115 (2023)</div>
+<li style="margin-bottom:20px;">
+<div style="font-size:1.08em; margin-bottom:4px;">
+<a href="https://scholar.google.com/scholar?q=Nearly+Query-Optimal+Classical+Shadow+Estimation+of+Unitary+Channels">
+<strong>Nearly Query-Optimal Classical Shadow Estimation of Unitary Channels</strong>
+</a>
 </div>
+<div><strong>Zihao Li</strong>, Changhao Yi, You Zhou, and Huangjun Zhu</div>
+<div><em>PRX Quantum</em> <strong>6</strong>, 030366 (2025)</div>
+</li>
 
-<div style="margin-bottom: 30px;">
-  <div style="font-size: 1.08em; margin-bottom: 5px;">
-    <a href="https://scholar.google.com/scholar?q=Verification+of+phased+Dicke+states">
-      <strong>Verification of Phased Dicke States</strong>
-    </a>
-  </div>
-  <div><strong>Zihao Li</strong>, Yun-Guang Han, Hao-Feng Sun, Jiangwei Shang, and Huangjun Zhu</div>
-  <div><em>Physical Review A</em> <strong>103</strong>, 022601 (2021)</div>
+<li style="margin-bottom:20px;">
+<div style="font-size:1.08em; margin-bottom:4px;">
+<strong>Enhanced Upper Confidence Limits via Randomized Tests in Random Sampling without Replacement</strong>
 </div>
+<div><strong>Zihao Li</strong>, Huangjun Zhu, and Masahito Hayashi</div>
+<div><em>Advances in Applied Probability</em> (2025)</div>
+</li>
 
-<div style="margin-bottom: 30px;">
-  <div style="font-size: 1.08em; margin-bottom: 5px;">
-    <a href="https://scholar.google.com/scholar?q=Optimal+verification+of+Greenberger-Horne-Zeilinger+states">
-      <strong>Optimal Verification of Greenberger–Horne–Zeilinger States</strong>
-    </a>
-  </div>
-  <div><strong>Zihao Li</strong>, Yun-Guang Han, and Huangjun Zhu</div>
-  <div><em>Physical Review Applied</em> <strong>13</strong>, 054002 (2020)</div>
+<li style="margin-bottom:20px;">
+<div style="font-size:1.08em; margin-bottom:4px;">
+<strong>Robust and Efficient Verification of Graph States in Blind Measurement-Based Quantum Computation</strong>
 </div>
+<div><strong>Zihao Li</strong>, Huangjun Zhu, and Masahito Hayashi</div>
+<div><em>npj Quantum Information</em> <strong>9</strong>, 115 (2023)</div>
+</li>
 
-<div style="margin-bottom: 30px;">
-  <div style="font-size: 1.08em; margin-bottom: 5px;">
-    <a href="https://scholar.google.com/scholar?q=Efficient+verification+of+bipartite+pure+states">
-      <strong>Efficient Verification of Bipartite Pure States</strong>
-    </a>
-  </div>
-  <div><strong>Zihao Li†</strong>, Yun-Guang Han†, and Huangjun Zhu</div>
-  <div><em>Physical Review A</em> <strong>100</strong>, 032316 (2019)</div>
+<li style="margin-bottom:20px;">
+<div style="font-size:1.08em; margin-bottom:4px;">
+<strong>Verification of Phased Dicke States</strong>
 </div>
+<div><strong>Zihao Li</strong>, Yun-Guang Han, Hao-Feng Sun, Jiangwei Shang, and Huangjun Zhu</div>
+<div><em>Physical Review A</em> <strong>103</strong>, 022601 (2021)</div>
+</li>
 
-<p style="font-size: 0.9em; margin-top: 8px;">† Equal contribution.</p>
-
-<hr style="margin: 36px 0;">
-
-<h2>Preprints</h2>
-
-<div style="margin-bottom: 30px;">
-  <div style="font-size: 1.08em; margin-bottom: 5px;">
-    <a href="https://arxiv.org/abs/2606.13638">
-      <strong>Optimal Classical Shadow Estimation of Unitary Channels at the Heisenberg Limit</strong>
-    </a>
-  </div>
-  <div>Entong He*, <strong>Zihao Li*</strong>, Noam Scully, Sisi Zhou, and Yuxiang Yang</div>
-  <div><em>arXiv preprint</em> arXiv:2606.13638 (2026)</div>
+<li style="margin-bottom:20px;">
+<div style="font-size:1.08em; margin-bottom:4px;">
+<strong>Optimal Verification of Greenberger–Horne–Zeilinger States</strong>
 </div>
+<div><strong>Zihao Li</strong>, Yun-Guang Han, and Huangjun Zhu</div>
+<div><em>Physical Review Applied</em> <strong>13</strong>, 054002 (2020)</div>
+</li>
 
-<div style="margin-bottom: 30px;">
-  <div style="font-size: 1.08em; margin-bottom: 5px;">
-    <a href="https://arxiv.org/abs/2605.09958">
-      <strong>Quantum Nonlinear Properties from a Single Measurement Setting</strong>
-    </a>
-  </div>
-  <div><strong>Zihao Li</strong>, Datong Chen, Dayue Qin, Yuxiang Yang, and You Zhou</div>
-  <div><em>arXiv preprint</em> arXiv:2605.09958 (2026)</div>
+<li style="margin-bottom:20px;">
+<div style="font-size:1.08em; margin-bottom:4px;">
+<strong>Efficient Verification of Bipartite Pure States</strong>
 </div>
+<div><strong>Zihao Li†</strong>, Yun-Guang Han†, and Huangjun Zhu</div>
+<div><em>Physical Review A</em> <strong>100</strong>, 032316 (2019)</div>
+</li>
 
-<p style="font-size: 0.9em; margin-top: 8px;">* Equal contribution.</p>
+</ol>
+
+<p style="font-size:0.9em;">* Equal contribution.&nbsp;&nbsp;&nbsp;† Equal contribution.</p>
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
