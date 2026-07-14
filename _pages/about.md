@@ -27,6 +27,17 @@ My research interest includes neural machine translation and computer vision. I 
 %- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo %dapibus sit amet. 
 
 
+
+<style>
+ol a {
+    text-decoration: none;
+}
+
+ol a:hover {
+    text-decoration: underline;
+}
+</style>
+
 <h1>📝 Selected Publications</h1>
 
 <p style="font-size:0.95em; margin-top:-8px; margin-bottom:20px;">
