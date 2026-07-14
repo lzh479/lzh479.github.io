@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,10 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👋 About
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a quantum information theorist and a Research Assistant Professor at the
+<a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>.
+I received my Ph.D. in Physics from the University of Hong Kong under the supervision of
+Professor Huangjun Zhu, and previously obtained my Bachelor's degree in Physics from
+Tsinghua University.
 
+My research interests lie broadly in quantum information theory, with particular interests in
+<strong>quantum learning</strong>,
+<strong>quantum metrology</strong>,
+<strong>quantum state and process characterization</strong>,
+<strong>classical shadows</strong>,
+<strong>quantum tomography</strong>, and
+<strong>quantum foundations</strong>.
+My recent work focuses on developing efficient protocols for learning and characterizing quantum systems, together with understanding their fundamental limits.
+
+For a complete list of publications, please visit my
+<a href="https://scholar.google.com/citations?user=MK3bZDMAAAAJ" target="_blank">Google Scholar</a>.
 
 
 <style>
