@@ -62,12 +62,9 @@ My research interests lie broadly in quantum information science, with particula
 
 <h2 id="selected-publications" style="margin-top:40px;">Selected Publications</h2>
 
-<p style="font-size:0.95em; margin-top:-8px; margin-bottom:20px;">
 For a complete list of publications, please visit my
 <a href="https://scholar.google.com/citations?user=MK3bZDMAAAAJ" target="_blank">Google Scholar</a>.
-</p>
 
-<p style="font-size:0.95em; margin-top:-8px; margin-bottom:20px;">
 * Equal contribution.
 </p>
 
@@ -208,6 +205,6 @@ For a complete list of publications, please visit my
 
 **Journal Reviewer:** Nature Communications, Quantum, Physical Review A.
 
-
+<div style="height:80px;"></div>
 
 
