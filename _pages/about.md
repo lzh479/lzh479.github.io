@@ -82,7 +82,7 @@ My research interest includes neural machine translation and computer vision. I 
 </a>
 </div>
 <div><strong>Zihao Li</strong>, Huangjun Zhu, and Masahito Hayashi</div>
-<div><em>Advances in Applied Probability</em>, <strong>57</strong>, 1–51 (2025)</div>
+<div><em>Advances in Applied Probability</em>, <strong>58</strong>, 475-525 (2025)</div>
 </li>
 
 <li style="margin-bottom:16px;">
