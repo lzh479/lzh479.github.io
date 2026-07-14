@@ -20,12 +20,11 @@ redirect_from:
 # 👋 About
 
 I am currently a Postdoctoral Fellow at the The University of Hong Kong,
-working with
-<a href="https://yangyx09.github.io/#teaching" target="_blank">Professor Yuxiang Yang</a>.
-I received my Ph.D. in Physics from Fudan University under the supervision of
-<a href="https://phys.fudan.edu.cn/13/75/c7605a136053/page.htm" target="_blank">Professor Huangjun Zhu</a>,
-and previously obtained my Bachelor's degree in Physics from
-<a href="https://www.fudan.edu.cn/" target="_blank">Fudan University</a>.
+working with Professor
+<a href="https://yangyx09.github.io/#teaching" target="_blank">Yuxiang Yang</a>.
+In 2025, I received my Ph.D. in Physics from Fudan University under the supervision of Professor
+<a href="https://phys.fudan.edu.cn/13/75/c7605a136053/page.htm" target="_blank">Huangjun Zhu</a>. 
+In 2020, I obtained my Bachelor's degree in Physics from Fudan University.
 
 My research interests lie broadly in quantum information science, with particular interests in quantum learning, quantum system characterization, and quantum algorithms. My recent work focuses on developing efficient protocols for learning and verifying quantum systems, together with understanding their fundamental limits.
 
