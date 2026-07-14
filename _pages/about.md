@@ -62,7 +62,10 @@ My research interest includes neural machine translation and computer vision. I 
 </a>
 </div>
 <div>Qing Liu*, <strong>Zihao Li*</strong>, Xiao Yuan, Huangjun Zhu, and You Zhou</div>
-<div><em>Physical Review Letters</em> <strong>136</strong>, 100602 (2026)</div>
+<div>
+<em>Physical Review Letters</em> <strong>136</strong>, 100602 (2026)
+&nbsp;[<a href="https://arxiv.org/abs/2407.20865" target="_blank">arXiv</a>]
+</div>
 </li>
 
 <li style="margin-bottom:16px;">
@@ -72,7 +75,10 @@ My research interest includes neural machine translation and computer vision. I 
 </a>
 </div>
 <div><strong>Zihao Li</strong>, Changhao Yi, You Zhou, and Huangjun Zhu</div>
-<div><em>PRX Quantum</em> <strong>6</strong>, 030366 (2025)</div>
+<div>
+<em>PRX Quantum</em> <strong>6</strong>, 030366 (2025)
+&nbsp;[<a href="https://arxiv.org/abs/2410.14538" target="_blank">arXiv</a>]
+</div>
 </li>
 
 <li style="margin-bottom:16px;">
@@ -82,7 +88,10 @@ My research interest includes neural machine translation and computer vision. I 
 </a>
 </div>
 <div><strong>Zihao Li</strong>, Huangjun Zhu, and Masahito Hayashi</div>
-<div><em>Advances in Applied Probability</em>, <strong>58</strong>, 475-525 (2025)</div>
+<div>
+<em>Advances in Applied Probability</em>, <strong>58</strong>, 475–525 (2025)
+&nbsp;[<a href="https://arxiv.org/abs/2211.02399" target="_blank">arXiv</a>]
+</div>
 </li>
 
 <li style="margin-bottom:16px;">
@@ -92,7 +101,10 @@ My research interest includes neural machine translation and computer vision. I 
 </a>
 </div>
 <div>Wen-Hao Zhang*, <strong>Zihao Li*</strong>, Gong-Chu Li, Xu-Song Hong, Huangjun Zhu, Geng Chen, Chuan-Feng Li, and Guang-Can Guo</div>
-<div><em>Physical Review Applied</em> <strong>23</strong>, 064005 (2025)</div>
+<div>
+<em>Physical Review Applied</em> <strong>23</strong>, 064005 (2025)
+&nbsp;[<a href="https://arxiv.org/abs/2506.10655" target="_blank">arXiv</a>]
+</div>
 </li>
 
 <li style="margin-bottom:16px;">
@@ -102,7 +114,10 @@ My research interest includes neural machine translation and computer vision. I 
 </a>
 </div>
 <div><strong>Zihao Li</strong>, Huangjun Zhu, and Masahito Hayashi</div>
-<div><em>npj Quantum Information</em> <strong>9</strong>, 115 (2023)</div>
+<div>
+<em>npj Quantum Information</em> <strong>9</strong>, 115 (2023)
+&nbsp;[<a href="https://arxiv.org/abs/2305.10742" target="_blank">arXiv</a>]
+</div>
 </li>
 
 <li style="margin-bottom:16px;">
@@ -112,7 +127,10 @@ My research interest includes neural machine translation and computer vision. I 
 </a>
 </div>
 <div><strong>Zihao Li</strong>, Yun-Guang Han, Hao-Feng Sun, Jiangwei Shang, and Huangjun Zhu</div>
-<div><em>Physical Review A</em> <strong>103</strong>, 022601 (2021)</div>
+<div>
+<em>Physical Review A</em> <strong>103</strong>, 022601 (2021)
+&nbsp;[<a href="https://arxiv.org/abs/2004.06873" target="_blank">arXiv</a>]
+</div>
 </li>
 
 <li style="margin-bottom:16px;">
@@ -122,7 +140,10 @@ My research interest includes neural machine translation and computer vision. I 
 </a>
 </div>
 <div><strong>Zihao Li</strong>, Yun-Guang Han, and Huangjun Zhu</div>
-<div><em>Physical Review Applied</em> <strong>13</strong>, 054002 (2020)</div>
+<div>
+<em>Physical Review Applied</em> <strong>13</strong>, 054002 (2020)
+&nbsp;[<a href="https://arxiv.org/abs/1909.08979" target="_blank">arXiv</a>]
+</div>
 </li>
 
 <li style="margin-bottom:16px;">
@@ -132,7 +153,10 @@ My research interest includes neural machine translation and computer vision. I 
 </a>
 </div>
 <div><strong>Zihao Li*</strong>, Yun-Guang Han*, and Huangjun Zhu</div>
-<div><em>Physical Review A</em> <strong>100</strong>, 032316 (2019)</div>
+<div>
+<em>Physical Review A</em> <strong>100</strong>, 032316 (2019)
+&nbsp;[<a href="https://arxiv.org/abs/1901.09783" target="_blank">arXiv</a>]
+</div>
 </li>
 
 </ol>
