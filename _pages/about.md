@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 About
+# About
 
 I am currently a Postdoctoral Fellow at the University of Hong Kong,
 working with Professor
@@ -52,7 +52,7 @@ My research interests lie broadly in quantum information science, with particula
 }
 </style>
 
-<h1>📝 Selected Publications</h1>
+<h1> Selected Publications</h1>
 
 <p style="font-size:0.95em; margin-top:-8px; margin-bottom:20px;">
 For a complete list of publications, please visit my
