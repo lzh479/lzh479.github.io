@@ -193,6 +193,6 @@ For a complete list of publications, please visit my
 
 # Academic Service
 
-**Conference Reviewer:** AQIS 2026.
+**Conference Reviewer:** QIP2025, TQC 2026, AQIS 2026.
 
-**Journal Reviewer:** Physical Review Letters, PRX Quantum, Quantum, npj Quantum Information.
+**Journal Reviewer:** Nature Communications, Quantum, Physical Review A. 
