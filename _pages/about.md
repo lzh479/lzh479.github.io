@@ -47,25 +47,21 @@ My research interest includes neural machine translation and computer vision. I 
 <strong>Quantum Nonlinear Properties from a Single Measurement Setting</strong>
 </a>
 </div>
-<div><strong>Zihao Li</strong>, Datong Chen, Dayue Qin, Yuxiang Yang, and You Zhou</div>
+<div><strong>Zihao Li*</strong>, Datong Chen*, Dayue Qin, Yuxiang Yang, and You Zhou</div>
 <div><em>arXiv preprint</em>, arXiv:2605.09958 (2026)</div>
 </li>
 
 <li style="margin-bottom:20px;">
 <div style="font-size:1.08em; margin-bottom:4px;">
-<a href="https://scholar.google.com/scholar?q=Auxiliary-free+Replica+Shadows">
 <strong>Auxiliary-free Replica Shadows: Efficient Estimation of Multiple Nonlinear Quantum Properties</strong>
-</a>
 </div>
-<div>Qing Liu†, <strong>Zihao Li†</strong>, Xiao Yuan, Huangjun Zhu, and You Zhou</div>
+<div>Qing Liu*, <strong>Zihao Li*</strong>, Xiao Yuan, Huangjun Zhu, and You Zhou</div>
 <div><em>Physical Review Letters</em> <strong>136</strong>, 100602 (2026)</div>
 </li>
 
 <li style="margin-bottom:20px;">
 <div style="font-size:1.08em; margin-bottom:4px;">
-<a href="https://scholar.google.com/scholar?q=Nearly+Query-Optimal+Classical+Shadow+Estimation+of+Unitary+Channels">
 <strong>Nearly Query-Optimal Classical Shadow Estimation of Unitary Channels</strong>
-</a>
 </div>
 <div><strong>Zihao Li</strong>, Changhao Yi, You Zhou, and Huangjun Zhu</div>
 <div><em>PRX Quantum</em> <strong>6</strong>, 030366 (2025)</div>
@@ -76,7 +72,15 @@ My research interest includes neural machine translation and computer vision. I 
 <strong>Enhanced Upper Confidence Limits via Randomized Tests in Random Sampling without Replacement</strong>
 </div>
 <div><strong>Zihao Li</strong>, Huangjun Zhu, and Masahito Hayashi</div>
-<div><em>Advances in Applied Probability</em> (2025)</div>
+<div><em>Advances in Applied Probability</em>, 1–51 (2025)</div>
+</li>
+
+<li style="margin-bottom:20px;">
+<div style="font-size:1.08em; margin-bottom:4px;">
+<strong>Experimental Verification of Entangled States in the Adversarial Scenario</strong>
+</div>
+<div>Wen-Hao Zhang*, <strong>Zihao Li*</strong>, Gong-Chu Li, Xu-Song Hong, Huangjun Zhu, Geng Chen, Chuan-Feng Li, and Guang-Can Guo</div>
+<div><em>Physical Review Applied</em> <strong>23</strong>, 064005 (2025)</div>
 </li>
 
 <li style="margin-bottom:20px;">
@@ -107,14 +111,15 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="font-size:1.08em; margin-bottom:4px;">
 <strong>Efficient Verification of Bipartite Pure States</strong>
 </div>
-<div><strong>Zihao Li†</strong>, Yun-Guang Han†, and Huangjun Zhu</div>
+<div><strong>Zihao Li*</strong>, Yun-Guang Han*, and Huangjun Zhu</div>
 <div><em>Physical Review A</em> <strong>100</strong>, 032316 (2019)</div>
 </li>
 
 </ol>
 
-<p style="font-size:0.9em;">* Equal contribution.&nbsp;&nbsp;&nbsp;† Equal contribution.</p>
-
+<p style="font-size:0.9em;">
+* Equal contribution.
+</p>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
