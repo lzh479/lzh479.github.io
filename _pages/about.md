@@ -15,26 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
-# About
-
-I am currently a Postdoctoral Fellow at the University of Hong Kong,
-working with Professor
-<a href="https://yangyx09.github.io/#teaching" target="_blank">Yuxiang Yang</a>.
-
-In 2025, I received my Ph.D. in Physics from Fudan University under the supervision of Professor
-<a href="https://phys.fudan.edu.cn/13/75/c7605a136053/page.htm" target="_blank">Huangjun Zhu</a>. 
-
-In 2020, I obtained my Bachelor's degree in Physics from Fudan University.
-
-
-# Research interests
-
-My research interests lie broadly in quantum information science, with particular interests in quantum learning, quantum system characterization, and quantum algorithms. My recent work focuses on developing efficient protocols for learning and verifying quantum systems, together with understanding their fundamental limits.
-
-
-
 <style>
 .page__content ol a,
 .page__content ol a:visited {
@@ -57,7 +37,29 @@ My research interests lie broadly in quantum information science, with particula
 }
 </style>
 
-<h1> Selected Publications</h1>
+<span class="anchor" id="about"></span>
+
+# About
+
+I am currently a Postdoctoral Fellow at the University of Hong Kong, working with Professor
+<a href="https://yangyx09.github.io/#teaching" target="_blank">Yuxiang Yang</a>.
+
+In 2025, I received my Ph.D. in Physics from Fudan University under the supervision of Professor
+<a href="https://phys.fudan.edu.cn/13/75/c7605a136053/page.htm" target="_blank">Huangjun Zhu</a>.
+
+In 2020, I obtained my Bachelor's degree in Physics from Fudan University.
+
+
+<span class="anchor" id="research-interests"></span>
+
+# Research Interests
+
+My research interests lie broadly in quantum information science, with particular interests in quantum learning, quantum system characterization, and quantum algorithms. My recent work focuses on developing efficient protocols for learning and verifying quantum systems, together with understanding their fundamental limits.
+
+
+<span class="anchor" id="selected-publications"></span>
+
+<h1 style="margin-top:40px;">Selected Publications</h1>
 
 <p style="font-size:0.95em; margin-top:-8px; margin-bottom:20px;">
 For a complete list of publications, please visit my
@@ -196,8 +198,11 @@ For a complete list of publications, please visit my
 
 </ol>
 
+
+<span class="anchor" id="academic-service"></span>
+
 # Academic Service
 
-**Conference Reviewer:** QIP2025, TQC 2026, AQIS 2026.
+**Conference Reviewer:** QIP 2025, TQC 2026, AQIS 2026.
 
-**Journal Reviewer:** Nature Communications, Quantum, Physical Review A. 
+**Journal Reviewer:** Nature Communications, Quantum, Physical Review A.
