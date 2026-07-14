@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About
 
-I am currently a Postdoctoral Fellow at the The University of Hong Kong,
+I am currently a Postdoctoral Fellow at the University of Hong Kong,
 working with Professor
 <a href="https://yangyx09.github.io/#teaching" target="_blank">Yuxiang Yang</a>.
 In 2025, I received my Ph.D. in Physics from Fudan University under the supervision of Professor
