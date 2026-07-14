@@ -39,18 +39,23 @@ author_profile: true
 
 <style>
 .page__content ol a,
-.page__content ol a:visited,
-.page__content ol a:hover,
-.page__content ol a:focus,
-.page__content ol a:active {
+.page__content ol a:visited {
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
   background-image: none !important;
 }
 
+.page__content ol a:hover,
+.page__content ol a:focus {
+  text-decoration: underline !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  background-image: none !important;
+}
+
 .page__content ol a strong {
-  text-decoration: none !important;
+  text-decoration: inherit !important;
 }
 </style>
 
