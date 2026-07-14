@@ -34,8 +34,6 @@ My research interests lie broadly in quantum information theory, with particular
 <strong>quantum foundations</strong>.
 My recent work focuses on developing efficient protocols for learning and characterizing quantum systems, together with understanding their fundamental limits.
 
-For a complete list of publications, please visit my
-<a href="https://scholar.google.com/citations?user=MK3bZDMAAAAJ" target="_blank">Google Scholar</a>.
 
 
 <style>
@@ -61,6 +59,11 @@ For a complete list of publications, please visit my
 </style>
 
 <h1>📝 Selected Publications</h1>
+
+<p style="font-size:0.95em; margin-top:-8px; margin-bottom:20px;">
+For a complete list of publications, please visit my
+<a href="https://scholar.google.com/citations?user=MK3bZDMAAAAJ" target="_blank">Google Scholar</a>.
+</p>
 
 <p style="font-size:0.95em; margin-top:-8px; margin-bottom:20px;">
 * Equal contribution.
