@@ -28,13 +28,29 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
+
+
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 <style>
-ol a {
-    text-decoration: none;
+.page__content ol a,
+.page__content ol a:visited,
+.page__content ol a:hover,
+.page__content ol a:focus,
+.page__content ol a:active {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  background-image: none !important;
 }
 
-ol a:hover {
-    text-decoration: underline;
+.page__content ol a strong {
+  text-decoration: none !important;
 }
 </style>
 
