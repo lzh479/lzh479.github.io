@@ -65,6 +65,7 @@ My research interests lie broadly in quantum information science, with particula
 For a complete list of publications, please visit my
 <a href="https://scholar.google.com/citations?user=MK3bZDMAAAAJ" target="_blank">Google Scholar</a>.
 
+<p style="font-size:0.95em; margin-top:0; margin-bottom:20px;">
 * Equal contribution.
 </p>
 
@@ -199,7 +200,7 @@ For a complete list of publications, please visit my
 
 <span class="anchor" id="academic-service"></span>
 
-<h2 id="academic-service" style="margin-top:40px;">Academic Service</h2>
+<h2 id="academic-service" style="margin-top:30px;">Academic Service</h2>
 
 **Conference Reviewer:** QIP 2025, TQC 2026, AQIS 2026.
 
