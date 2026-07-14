@@ -35,14 +35,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 <li style="margin-bottom:24px;">
 
-**Zihao Li**, Huangjun Zhu, and Masahito Hayashi.  
-**Robust Verification of Quantum States in the Adversarial Scenario.**  
-*Quantum Robustness in Artificial Intelligence: Principles and Applications* (2026).
-
-</li>
-
-<li style="margin-bottom:24px;">
-
 Qing Liu†, **Zihao Li†**, Xiao Yuan, Huangjun Zhu, and You Zhou.  
 **Auxiliary-free Replica Shadows: Efficient Estimation of Multiple Nonlinear Quantum Properties.**  
 *Physical Review Letters* **136**, 100602 (2026).
@@ -97,14 +89,6 @@ Qing Liu†, **Zihao Li†**, Xiao Yuan, Huangjun Zhu, and You Zhou.
 
 </li>
 
-<li style="margin-bottom:24px;">
-
-**Zihao Li**, Haoyu Zhang, and Huangjun Zhu.  
-**Implementation of Generalized Measurements on a Qudit via Quantum Walks.**  
-*Physical Review A* **99**, 062342 (2019).
-
-</li>
-
 </ul>
 
 ---
@@ -116,29 +100,20 @@ Qing Liu†, **Zihao Li†**, Xiao Yuan, Huangjun Zhu, and You Zhou.
 <li style="margin-bottom:24px;">
 
 Entong He, **Zihao Li**, Noam Scully, Sisi Zhou, and Yuxiang Yang.  
-**Optimal Classical Shadow Estimation of Unitary Channels at Heisenberg Limit.**  
-arXiv:2606.13638 (2026).  [oai_citation:0‡arXiv](https://arxiv.org/abs/2606.13638?utm_source=chatgpt.com)
+**Optimal Classical Shadow Estimation of Unitary Channels at the Heisenberg Limit.**  
+arXiv:2606.13638 (2026).
 
 </li>
 
 <li style="margin-bottom:24px;">
 
-**Zihao Li**, Dongxiao Chen, Dawei Qin, Yuxiang Yang, and You Zhou.  
+**Zihao Li**, Datong Chen, Dayue Qin, Yuxiang Yang, and You Zhou.  
 **Quantum Nonlinear Properties from a Single Measurement Setting.**  
 arXiv:2605.09958 (2026).
 
 </li>
 
-<li style="margin-bottom:24px;">
-
-Zhaoyang Yang, Dongxiao Chen, **Zihao Li**, and Huangjun Zhu.  
-**High-Precision Fidelity Estimation with Common Randomized Measurements.**  
-arXiv:2511.22509 (2025).
-
-</li>
-
 </ul>
-
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
