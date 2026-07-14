@@ -23,9 +23,7 @@ I am currently a Postdoctoral Fellow at the
 <a href="https://www.hku.hk/" target="_blank">The University of Hong Kong</a>,
 working with
 <a href="https://yangyx09.github.io/#teaching" target="_blank">Professor Yuxiang Yang</a>.
-I received my Ph.D. in Physics from
-<a href="https://www.fudan.edu.cn/" target="_blank">Fudan University</a>
-in September 2025 under the supervision of
+I received my Ph.D. in Physics from Fudan University under the supervision of
 <a href="https://phys.fudan.edu.cn/13/75/c7605a136053/page.htm" target="_blank">Professor Huangjun Zhu</a>,
 and previously obtained my Bachelor's degree in Physics from
 <a href="https://www.fudan.edu.cn/" target="_blank">Fudan University</a>.
