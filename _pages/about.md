@@ -29,29 +29,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Selected Publications
 
+## Journal Articles
+
 <ul style="line-height:1.6">
 
 <li style="margin-bottom:22px;">
 
-**Zihao Li**, Haoyu Zhang, and Huangjun Zhu.  
-**Implementation of generalized measurements on a qudit via quantum walks.**  
-*Physical Review A* **99**, 062342 (2019).
-
-</li>
-
-<li style="margin-bottom:22px;">
-
-**Zihao Li**†, Yun-Guang Han†, and Huangjun Zhu.  
-**Efficient verification of bipartite pure states.**  
-*Physical Review A* **100**, 032316 (2019).
-
-</li>
-
-<li style="margin-bottom:22px;">
-
-**Zihao Li**, Yun-Guang Han, and Huangjun Zhu.  
-**Optimal verification of Greenberger–Horne–Zeilinger states.**  
-*Physical Review Applied* **13**, 054002 (2020).
+**Zihao Li**, Huangjun Zhu, and Masahito Hayashi.  
+**Robust and efficient verification of graph states in blind measurement-based quantum computation.**  
+*npj Quantum Information* **9**, 115 (2023).
 
 </li>
 
@@ -65,9 +51,73 @@ My research interest includes neural machine translation and computer vision. I 
 
 <li style="margin-bottom:22px;">
 
+**Zihao Li**, Yun-Guang Han, and Huangjun Zhu.  
+**Optimal verification of Greenberger–Horne–Zeilinger states.**  
+*Physical Review Applied* **13**, 054002 (2020).
+
+</li>
+
+<li style="margin-bottom:22px;">
+
+**Zihao Li**†, Yun-Guang Han†, and Huangjun Zhu.  
+**Efficient verification of bipartite pure states.**  
+*Physical Review A* **100**, 032316 (2019).
+
+</li>
+
+<li style="margin-bottom:22px;">
+
+**Zihao Li**, Haoyu Zhang, and Huangjun Zhu.  
+**Implementation of generalized measurements on a qudit via quantum walks.**  
+*Physical Review A* **99**, 062342 (2019).
+
+</li>
+
+</ul>
+
+---
+
+## Selected Preprints
+
+<ul style="line-height:1.6">
+
+<li style="margin-bottom:22px;">
+
+**Zihao Li**, Entong Wang, Yuxiang Yang, Sisi Zhou, and Noam H. Linden.  
+**Optimal Classical Shadow Estimation of Unitary Channels at the Heisenberg Limit.**  
+Submitted.
+
+</li>
+
+<li style="margin-bottom:22px;">
+
+**Zihao Li**, et al.  
+**Quantum Nonlinear Properties from a Single Measurement Setting.**  
+Submitted.
+
+</li>
+
+<li style="margin-bottom:22px;">
+
+**Zihao Li**, Changhao Yi, You Zhou, and Huangjun Zhu.  
+**Nearly Query-Optimal Classical Shadow Estimation of Unitary Channels.**  
+arXiv:2410.14538 (2024).
+
+</li>
+
+<li style="margin-bottom:22px;">
+
+Qing Liu†, **Zihao Li**†, Xiao Yuan, Huangjun Zhu, and You Zhou.  
+**Auxiliary-Free Replica Shadow Estimation.**  
+arXiv:2407.20865 (2024).
+
+</li>
+
+<li style="margin-bottom:22px;">
+
 **Zihao Li**, Huangjun Zhu, and Masahito Hayashi.  
-**Robust and efficient verification of graph states in blind measurement-based quantum computation.**  
-*npj Quantum Information* **9**, 115 (2023).
+**Significance Improvement by Randomized Test in Random Sampling without Replacement.**  
+arXiv:2211.02399 (2022).
 
 </li>
 
